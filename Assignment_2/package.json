@@ -1,5 +1,5 @@
 {
-  "name": "as1",
+  "name": "as2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.6.1"
+    "bootstrap": "^4.0.0-beta.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
   }
 }
